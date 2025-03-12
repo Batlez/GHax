@@ -1,0 +1,8 @@
+keyboard
+winsound
+PyQt5
+pymem
+pynput
+requests
+pyMeow
+pywin32
